@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30309.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "nodePWA", "nodePWA\nodePWA.njsproj", "{A1E302DA-1788-4860-8E79-03EA0F57D160}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1E302DA-1788-4860-8E79-03EA0F57D160}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1E302DA-1788-4860-8E79-03EA0F57D160}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1E302DA-1788-4860-8E79-03EA0F57D160}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1E302DA-1788-4860-8E79-03EA0F57D160}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {057EBBAD-63C2-4128-AC85-58B9CD0616AE}
+	EndGlobalSection
+EndGlobal
